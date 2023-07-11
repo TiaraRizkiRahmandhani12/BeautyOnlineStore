@@ -1,0 +1,21 @@
+.bg-secondary {
+    background-color: #84b1eb !important;
+}
+.copyright {
+    background-color: #84b1eb;
+}
+.bg-primary {
+    background-color: #7d9bc3 !important;
+}
+nav {
+    font-weight: 700;
+}
+.img-card {
+    height: 18vw;
+    object-fit: cover;
+}
+.btn-oval {
+    border-radius: 20px;
+    padding: 6px 20px;
+    background-color: #84b1eb !important;
+}
